@@ -1,0 +1,3 @@
+Hello and welcome to the Odin Project.
+This is the place to learn everything web development.
+Thank you for joining us.
